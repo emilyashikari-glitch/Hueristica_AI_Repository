@@ -66,3 +66,6 @@ Private tutors or mentors or teachers are lost in this tool. This CANNOT replace
 - https://www.heuristi.ca/posts/how-to-use-mind-maps-for-studying
 - https://skywork.ai/skypage/en/Heuristica%20AI%3A%20A%20Guide%20to%20the%20Future%20of%20Visual%20Learning/1976174108923195392
 - (https://youtu.be/a5VDklCa7lU?si=EAEH4eVWfm8zF7yP)
+- MindMeister (https://www.mindmeister.com/?utm_source=Google_Ads&utm_medium=Paid_Search&utm_campaign=US_en_PBPQ_GA_SS_MM&utm_term=mindmeister&utm_campaign=US_en_PBPQ_GA_SS_MM&utm_source=adwords&utm_medium=ppc&hsa_acc=1500715290&hsa_cam=1566647495&hsa_grp=64812290772&hsa_ad=580495471095&hsa_src=g&hsa_tgt=kwd-3659949928&hsa_kw=mindmeister&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=1566647495&gbraid=0AAAAAD7Bz2PgYMy4WvWLvsdNbsDcjq_WO&gclid=Cj0KCQiAiebIBhDmARIsAE8PGNIoCEB9lP3WxlowDifhdYDcYGkPhOj9NYK6gNT4GxKnAiXdImfIKq0aAufDEALw_wcB)
+- Coggle (https://coggle.it/)
+- Notion.ai (https://www.notion.com/product/ai)

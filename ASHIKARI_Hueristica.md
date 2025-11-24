@@ -43,6 +43,11 @@ https://docs.google.com/document/d/1rPPa8tC-QdrsYjPnzPWAQRc-AMlaPlqNaJUFD9PL0OM/
 - **Why It Failed**: Extracted the text by line rather than concept. It really struggled with the numbers and figuring out which box everything belonged to
 - **Screenshots**: <img width="2233" height="1474" alt="image" src="https://github.com/user-attachments/assets/37444e2f-0e48-4640-b0ad-a3ab37bf3d5c" />
 - **Lesson Learned**: Formatting and parsing through text for AIs can be difficult to pull out certain information. In order to extract meaning from the text, there needs to be a human there to guide AI into what belongs in certain categories
+### Failure 3: Loss of context
+- **What I Tried**: I tried to expand my mind-map and continue down a branch
+- **Why It Failed**: Lost the context of the mapping and answered the "what" with a differnt type of "etching"
+- **Screenshots**: <img width="1134" height="1366" alt="Screenshot 2025-11-24 143929" src="https://github.com/user-attachments/assets/8c8b75bb-fe92-4f16-8be3-d331986889b0" />
+- **Lesson Learned**: Even though AI "looks" like it takes in context, it doesn't always get the context correct so prompting is extremely important
 ## Skill Code Analysis
 ### Challenge
 I think this tool could remove a lot of challenge in learning. Rather than having to research different journals and papers and websites to understand a concept, it would all be located here. I also feel like part of learning is creating the flashcards and learning material yourself, rather than getting an AI to do it for you.
